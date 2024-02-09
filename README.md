@@ -3,7 +3,7 @@
 
 ## Data visualization practice
 
-The projects shared show multiple options for data visualization. Using Starbucks dataset taken from Kaggle, I used two libraries such as Matplotlib and Seaborn.
+The projects shared show multiple options for data visualization. Using the Starbucks dataset taken from Kaggle, I used two libraries, Matplotlib and Seaborn.
 
 
 
@@ -13,7 +13,7 @@ The projects shared show multiple options for data visualization. Using Starbuck
  Data visualization plays a crucial role in data science for several reasons. Here are some key points to keep in mind: 
 
 ## Enhances Understanding:
-Data visualization simplifies complex datasets, making it easier for both technical and non-technical audiences to understand patterns, trends, and insights. Visual representations provide a more intuitive grasp of information compared to raw data.
+Data visualization simplifies complex datasets, making it easier for technical and non-technical audiences to understand patterns, trends, and insights. Visual representations provide a more intuitive grasp of information compared to raw data.
 
 ## Facilitates Communication:
 Visualizations are powerful tools for communicating findings within a team or to stakeholders. Charts, graphs, and dashboards can convey insights more effectively than lengthy reports, enabling better collaboration and decision-making.
@@ -25,7 +25,7 @@ Through visualization, patterns and trends within data become more apparent. Ana
 EDA is a crucial step in the data analysis process. Visualization tools allow data scientists to explore data interactively, helping them discover hidden patterns, relationships, and outliers that may not be immediately evident in the raw data.
 
 ## Helps in Decision-Making:
-Decision-makers often rely on visualizations to understand the implications of different choices. Visualizing data enables stakeholders to make data-driven decisions by providing a clear picture of the potential outcomes and associated risks.
+Decision-makers often rely on visualizations to understand the implications of different choices. Visualizing data enables stakeholders to make data-driven decisions by clearly showing potential outcomes and associated risks.
 
 ## Improves Storytelling:
 Data visualizations enhance the storytelling aspect of data science. By presenting data in a visually appealing and accessible way, data scientists can weave a compelling narrative that resonates with their audience, whether it's a technical team or business executives.
